@@ -1,10 +1,13 @@
 
 #  Hi there 👋
-I'm Egor Zhukov, aspiring Data Scientist 
+I'm Egor Zhukov, Data Scientist 
 
 <details>
   <summary>More stuff about me</summary>
 
+## About me
+
+A novice Data Scientist, graduated from the Chemistry Department of Moscow State University.
 
 ## My skills 🛠
 
@@ -13,7 +16,7 @@ I'm Egor Zhukov, aspiring Data Scientist
 * SQL
 * PySpark
 
-### Machine Learning, Deep Learning
+### Machine Learning & Deep Learning
 * Scikit-learn
 * XGBoost
 * CatBoost
@@ -28,10 +31,21 @@ I'm Egor Zhukov, aspiring Data Scientist
 * Matplotlib
 * SciPy
 
+## Languages 🌐
+
+| Language | Proficiency |
+|:--------:|:-----------:|
+| English | B1 |
+| Russian | Native language |
+
+## What I'm currently learning 📚
+* Recommendation systems
+* Deep leraning
+* Algorithms and data structures
 
 
 
----
+
 
 
 
