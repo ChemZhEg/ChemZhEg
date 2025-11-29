@@ -9,7 +9,7 @@ I'm Egor Zhukov, Data Scientist
 
 A novice Data Scientist, graduated from the Chemistry Department of Moscow State University.
 
-## My skills 🛠
+## My skills 
 
 ### Programming & Data Processing
 * Python
@@ -31,14 +31,14 @@ A novice Data Scientist, graduated from the Chemistry Department of Moscow State
 * Matplotlib
 * SciPy
 
-## Languages 🌐
+## Languages 
 
 | Language | Proficiency |
 |:--------:|:-----------:|
 | English | B1 |
 | Russian | Native language |
 
-## What I'm currently learning 📚
+## What I'm currently learning 
 * Recommendation systems
 * Deep leraning
 * Algorithms and data structures
