@@ -1,7 +1,9 @@
 
-# 👋 Hi there! I'm Egor Zhukov,
+# 👋 Hi there! 
+I'm Egor Zhukov, aspiring Data Scientist 
 
-Aspiring Data Scientist 
+<details>
+  <summary>More stuff about me</summary>
 
 ---
 
