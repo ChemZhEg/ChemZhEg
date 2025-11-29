@@ -40,7 +40,7 @@ A novice Data Scientist, graduated from the Chemistry Department of Moscow State
 
 ## What I'm currently learning 
 * Recommendation systems
-* Deep leraning
+* Deep learning
 * Algorithms and data structures
 
 
